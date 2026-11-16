@@ -1,0 +1,9 @@
+# Never commit actual save files or backups
+*.BoF
+*.BoF.bak-*
+*.bak-*
+*.tmp
+__pycache__/
+*.pyc
+.venv/
+venv/
